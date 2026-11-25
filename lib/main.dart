@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import '../testing/prueba_database.dart';
+import 'testing/prueba_database.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
